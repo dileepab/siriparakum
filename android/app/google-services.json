@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525914027982",
+    "project_id": "siriparakum-sc",
+    "storage_bucket": "siriparakum-sc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525914027982:android:7b555ca41f673322619d9f",
+        "android_client_info": {
+          "package_name": "com.example.siriparakum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhdics9S1tAQ9KEFxe0xeC6YY6k14YM6g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

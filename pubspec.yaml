@@ -1,0 +1,32 @@
+name: siriparakum
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.1.4 <4.0.0'
+
+dependencies:
+  cloud_firestore: ^4.12.2
+  firebase_analytics: ^10.6.3
+  firebase_auth: ^4.12.1
+  firebase_core: ^2.21.0
+  firebase_ui_auth: ^1.9.1
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.2.1
+  pie_chart: ^5.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+fonts:
+  - family: SocialIcons
+    fonts:
+      - asset: packages/firebase_ui_auth/fonts/SocialIcons.ttf
